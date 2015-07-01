@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">嵌套ListView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- dialogstyle_listitem -->
+    <string name="ListItem_type">HTTP</string>
+    
+</resources>
